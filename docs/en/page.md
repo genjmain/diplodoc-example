@@ -12,12 +12,6 @@ Simple and comfortable solution for everyone.
 - Fast validation, build and deploy for your projects
 - Easy integration with your developement pipelines
 
-### Full support of Markdown
-- Simple syntax
-- Easy learning
-- Concentration on content creation, not deployment
-- Rich functionality
-
 ### Support for complex Documentation projects
 - Customization and localization
 - “One Source” support
