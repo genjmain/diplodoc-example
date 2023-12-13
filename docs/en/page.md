@@ -8,9 +8,7 @@ Simple and comfortable solution for everyone.
 - Work with documents in the same way as with code
 - Minimal efforts for deployment and integration
 
-### Speed
-- Fast validation, build and deploy for your projects
-- Easy integration with your developement pipelines
+### S
 
 ### Support for complex Documentation projects
 - Customization and localization
