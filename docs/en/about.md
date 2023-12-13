@@ -11,7 +11,6 @@ If you would like to extend your project - please refer to [YFM Project Organiza
 All changes for this project can be done within you public github repository called "diplodoc-example/docs". 
 To make changes and apply them: 
 
-- go to your repo under "diplodoc-example/docs" 
 - make changes for project structure or content
 - commit & push into your repository 
 - go to "Actions" tab for docs repository 
